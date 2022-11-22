@@ -137,3 +137,15 @@ html{
   width: 120px;
   max-width: 100%;
 }
+
+
+.quangcao{
+  display: flex;
+}
+.quangcao_a{
+  margin: 0 auto;
+  list-style: none;
+  top: 130%;
+  flex: 2s;
+  align-items: center;
+}
